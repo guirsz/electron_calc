@@ -1,0 +1,23 @@
+{
+  "name": "electron_calc",
+  "version": "1.0.0",
+  "description": "Calculadora Electron JS",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^3.0.5",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "calc",
+    "electron",
+    "js",
+    "javascript",
+    "jquery"
+  ],
+  "author": "Guilherme Souza",
+  "license": "MIT"
+}
